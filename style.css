@@ -398,6 +398,7 @@ body {
     justify-content: center;
     gap: 30px;
     font-size: 24px;
+    margin-left: 10px;
   }
 
   .timer-block {
